@@ -1,0 +1,11 @@
+h1 {
+    text-align: center; 
+    font-size: 4rem;
+}
+
+.container {
+    width: 500px; 
+    display: grid; 
+    margin: 0 auto; 
+}
+
